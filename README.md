@@ -4,7 +4,7 @@ This repository is the official implementation of Hierarchical Dual-Alignment fo
 
 Code Availability
 
-The source code and pretrained model weights will be made publicly available in this repository upon acceptance of the paper.
+The source code will be made publicly available in this repository upon acceptance of the paper.
 
 Dataset Availability
 
