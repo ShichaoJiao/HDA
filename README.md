@@ -15,5 +15,5 @@ Dataset: ZS-STO
 Download Link: [Baidu Netdisk](https://pan.baidu.com/s/1Fl0EhRk9qO9_pRtvC7abng?pwd=qwer)
 
 Acknowledgements
- ACNet: Approaching-and-Centralizing Network for Zero-Shot Sketch-Based Image Retrieval [https://github.com/leftthomas/ACNet]
- Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval [https://github.com/wangxu-scu/CA]
+ACNet: Approaching-and-Centralizing Network for Zero-Shot Sketch-Based Image Retrieval [GitHub](https://github.com/leftthomas/ACNet)
+Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval [GitHub](https://github.com/wangxu-scu/CA)
